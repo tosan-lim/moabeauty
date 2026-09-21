@@ -1,0 +1,17 @@
+# This repository tracks site-specific WordPress code only.
+*
+!.gitignore
+!README.md
+
+!wp-content/
+!wp-content/mu-plugins/
+!wp-content/mu-plugins/*.php
+!wp-content/mu-plugins/*.css
+
+!wp-content/themes/
+!wp-content/themes/astra-child/
+!wp-content/themes/astra-child/**
+
+!wp-content/plugins/
+!wp-content/plugins/s-welcome-dashboard-6xF8hz/
+!wp-content/plugins/s-welcome-dashboard-6xF8hz/**
